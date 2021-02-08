@@ -1,0 +1,10 @@
+Logs
+Library
+ProjectSettings
+Temp
+Packages
+UserSettings
+
+.vscode
+*.meta
+*.csproj
