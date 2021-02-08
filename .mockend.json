@@ -1,21 +1,9 @@
 {
-  "targets":[
-    "0": {
-      "btnID": 0,
-      "btnCount": 4
-    },
-    "1": {
-      "btnID": 1,
-      "btnCount": 2
-    },
-    "2": {
-      "btnID": 2,
-      "btnCount": 7
-    },
-    "3": {
-      "btnID": 3,
-      "btnCount": 5
-    },
-  ]
+  "Data":{
+    "targets": "Target[]"
+  },
+  "Target": {
+    "btnID": "int",
+    "btnCount": "int"
 }
     
